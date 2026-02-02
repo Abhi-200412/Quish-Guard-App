@@ -3,5 +3,6 @@ opencv-python
 pyzbar
 requests
 python-whois
-
-reflex
+streamlit-lottie
+pandas
+numpy
